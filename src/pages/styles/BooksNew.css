@@ -1,0 +1,8 @@
+.BooksNew__hero {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+}
+.BooksNew__img {
+  height: 60px;
+}

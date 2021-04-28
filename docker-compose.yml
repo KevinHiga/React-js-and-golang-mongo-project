@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  web:
+    image: libraryapp
+    container_name: library_react_api
+    ports:
+      - "3000:3000"

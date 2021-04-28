@@ -1,0 +1,32 @@
+.Home {
+  width: 100%;
+  min-height: calc(100vh - 60px);
+  background:  #ffffff;
+  background-repeat: no-repeat;
+
+  color: #000000;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.Home__letter {
+  color: #e80e16;
+}
+
+.Home__letter2 {
+  color: #dabe07;
+  font-style: italic;
+}
+
+.Home__col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Home__col-img {
+  height: 250px;
+}

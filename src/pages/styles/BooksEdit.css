@@ -1,0 +1,9 @@
+.BooksEdit__hero {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.BooksEdit__hero-image {
+  height: 60px;
+}

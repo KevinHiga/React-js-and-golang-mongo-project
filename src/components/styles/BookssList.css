@@ -1,0 +1,50 @@
+.Bookss__container-tamanio {
+  height: 350px;
+  overflow-y: auto;
+}
+
+.BookssList li {
+  list-style:none;
+  overflow: hidden;
+}
+
+.BookssList ul[id|=f_] li { display:inline
+}
+
+.BookssList ul[id|=f_] li:nth-child(4):before {display: block; content: '';}
+
+.BookssList li.list_root {
+  padding-bottom: 20px; 
+}
+
+/* Mostrar la lista en dos columnas */
+ul.BookssList { 
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+/* no romper los elementos externos */
+ul.BookssList > li { 
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid; 
+}
+
+.BookssListItem {
+  background: #FFFFFF;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+  border-radius: 5px;
+  display: flex;
+  padding: 1rem;
+  height: 120px;
+}
+
+.BookssListItem__avatar {
+  border-radius: 50%;
+  background: #a3a3a3;
+  margin-right: 0.5rem;
+  width: 80px;
+  height: 80px;
+}

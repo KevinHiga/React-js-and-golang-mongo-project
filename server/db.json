@@ -1,0 +1,72 @@
+{
+  "bookss": [
+    {
+      "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
+      "name": "La Gran Biblioteca Pública de Lima",
+      "direction": "Av. Abancay 4, Cercado de Lima 15001",
+      "year": "1943",
+      "avatarUrl": "https://www.bnp.gob.pe/wp-content/uploads/2020/05/GBPL.jpg"
+    },
+    {
+      "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
+      "name": "Biblioteca Nicolás Ribera – Museo Metropolitano de Lima",
+      "direction": "Jirón Conde de Superunda 141, Cercado de Lima 15001",
+      "year": "1953",
+      "avatarUrl": "https://www.museosdelima.com/wp-content/uploads/2019/06/Museo_Metropolitano-1.jpg"
+    },
+    {
+      "id": "63c03386-33a2-4512-9ac1-354ad7bec5e9",
+      "name": "Biblioteca España de las Artes",
+      "direction": "Parque Universitario, Centro Cultural San Marcos - Casona, Av. Nicolás de Piérola 1222, 15001",
+      "year": "1938",
+      "avatarUrl": "https://i.pinimg.com/564x/b7/5f/73/b75f73a5079cc961ebe0a60639ff95bf.jpg"
+    },
+    {
+      "name": "Biblioteca del Banco Central de Reserva del Perú",
+      "direction": "Miro Quesada, Lima 15102",
+      "year": "1929",
+      "avatarUrl": "",
+      "id": "1pjPlp9"
+    },
+    {
+      "name": "Biblioteca del Banco Central de Reserva del Perú",
+      "direction": "Miro Quesada, Lima 15102",
+      "year": "1929",
+      "avatarUrl": "",
+      "id": "ixede8j"
+    },
+    {
+      "name": "Biblioteca del Banco Central de Reserva del Perú",
+      "direction": "Miro Quesada, Lima 15102",
+      "year": "1929",
+      "avatarUrl": "",
+      "id": "KWlP8hL"
+    },
+    {
+      "name": "Biblioteca del Banco Central de Reserva del Perú",
+      "direction": "Miro Quesada, Lima 15102",
+      "year": "1929",
+      "id": "ItN_3Ol"
+    },
+    {
+      "name": "Biblioteca del Banco Central de Reserva del Perú",
+      "direction": "Miro Quesada, Lima 15102",
+      "year": "1929",
+      "id": "aJlLP1A"
+    },
+    {
+      "name": "Biblioteca del Banco Central de Reserva del Perú",
+      "direction": "Miro Quesada, Lima 15102",
+      "year": "1929",
+      "avatarUrl": "",
+      "id": "T8fm5gK"
+    },
+    {
+      "name": "Biblioteca del Banco Central de Reserva del Perú",
+      "direction": "Miro Quesada, Lima 15102",
+      "year": "1929",
+      "avatarUrl": "404.png",
+      "id": "M4woXeL"
+    }
+  ]
+}

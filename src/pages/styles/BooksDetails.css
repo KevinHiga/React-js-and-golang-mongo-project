@@ -1,0 +1,19 @@
+.BooksDetails__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background: #ffffff;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+}
+
+.BooksDetails__hero-attendant-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.BooksDetails__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
